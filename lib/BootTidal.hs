@@ -1,4 +1,5 @@
 :set prompt ""
+:set prompt2 ""
 :module Sound.Tidal.Context
 
 (cps, getNow) <- bpsUtils
